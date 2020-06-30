@@ -4,9 +4,13 @@ the screen.
 
 # Use
 chmod +x splunk.sh
-./splunk.sh 
+
+./splunk.s
+h 
  <target> ( for example: cisco.com )
+ 
 After taking index.html file again run and
+
  <target> ( cisco.com ) 
 
 And you will see the output :) 
