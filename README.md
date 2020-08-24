@@ -5,8 +5,7 @@ the screen.
 # Use
 chmod +x splunk.sh
 
-./splunk.s
-h 
+./splunk.sh 
  <target> ( for example: cisco.com )
  
 After taking index.html file again run and
