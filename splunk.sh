@@ -1,7 +1,7 @@
 #!/bin/bash
 
-FILE="/home/espvuln/Desktop/splunk/index.html"
-SUBS="/home/espvuln/Desktop/splunk/subs.txt"
+FILE="/home/{CHANGE THIS}/Desktop/splunk/index.html"
+SUBS="/home/{CHANGE THIS}/Desktop/splunk/subs.txt"
 
 printf "Pls Enter Hostname ( For example: google.com ) \n >>"
 read site
